@@ -2,15 +2,19 @@
 itemGroup.my_tab=Incantations
 
 #items
-item.blank_scroll.name=Blank scroll
-item.written_scroll.name=Written scroll
+item.scroll_blank.name=Blank scroll
+item.scroll_written.name=Written scroll
+item.scroll_written_charged.name=Charged written scroll
 
 item.basic_book.name=Basic incantations book
 item.ancient_book.name=Ancient incantations book
 item.legendary_book.name=Legendary incantations book
 item.mythical_book.name=Mythical incantations book
 item.sky_iron_ingot.name=Sky iron ingot
+item.sky_iron_ingot_charged.name=Charged sky iron ingot
+item.sky_charging_wand.name=Sky charging wand
 
+item.rune.blank.name=Blank rune
 item.rune.use.name=Rune of use
 item.rune.right_click.name=Activating rune
 item.rune.delay.name=Detaining rune
@@ -20,8 +24,10 @@ item.rune.projectile.name=Rune of projectile
 item.rune.fireball.name=Rune of fireball
 item.rune.arrow.name=Rune of arrow
 
-
 #block
 tile.book_monument.name=Book monument
 tile.writing_table.name=Writing table
 tile.quartz_lamp.name=Quartz lamp
+tile.sky_charging_table.name=Sky charging table
+tile.sky_iron_ore.name=Sky iron ore
+tile.sky_iron_block.name=Sky iron block
